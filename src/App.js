@@ -52,8 +52,7 @@ function App() {
           <TimeAndLocation weather={weather} />
           <TemperatureAndDetails weather={weather} />
 
-          // <Forecast title="hourly forecast" items={weather.hourly} />
-          // <Forecast title="daily forecast" items={weather.daily} />
+     
         </div>
       )}
 
